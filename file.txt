@@ -8,4 +8,12 @@ Prueba de pull request
 git es gaver
 
 Prueba de main 1
+<<<<<<< HEAD
 prueba de main 2
+=======
+
+Experimento 1
+
+
+experimento 2
+>>>>>>> 265faaf (experimento 2)
