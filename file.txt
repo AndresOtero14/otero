@@ -6,3 +6,5 @@ vamos a poner esto para ver que es lo que ignora esto
 Prueba de pull request
 
 git es gaver
+
+Prueba de main 1
